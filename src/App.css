@@ -24,3 +24,7 @@ color: #3D3D3D !important;
   height: 100%;
   object-fit: cover;
 }
+/* icons */
+.icons{
+  font-size: 23px;
+}
