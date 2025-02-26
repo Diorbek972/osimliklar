@@ -23,8 +23,8 @@ function NavbarMain() {
               <NavLink className="nav-link">Plant Care</NavLink>
               <NavLink className="nav-link">Blogs</NavLink>
             </Nav>
-            <CiSearch className='text-black mx-4 with'/>
-            <FaBasketShopping className='text-black mx-4 with'/>
+            <CiSearch className='text-black mx-4 with' />
+            <FaBasketShopping className='text-black mx-4 with' />
             <button className='btn btn-success'>Login</button>
           </Navbar.Collapse>
         </Container>
