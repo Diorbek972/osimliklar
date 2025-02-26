@@ -1,9 +1,9 @@
-import Heafer from "../components/Heafer"
+import Carusel from "../components/carusel"
 
 function Home() {
   return (
     <div className="container">
-      <Heafer/>
+      <Carusel/>
     </div>
   )
 }
