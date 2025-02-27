@@ -8,7 +8,7 @@ import imgtort from '../assets/fotos/tuvaktort.jpg'
 function BlogPost() {
     return (
         <div className="container">
-            <h1 className="text-center ">Our Blog Posts</h1>
+            <h1 className="text-center margin-top">Our Blog Posts</h1>
             <p className="text-center text-black-50 bg-white">We are an online plant shop offering a wide range of cheap and trendy plants. </p>
             <div className="row">
                 <div className="col-md-3">

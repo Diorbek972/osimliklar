@@ -1,9 +1,11 @@
+// components
+import Barberton from "../components/Barberton"
 
 
 function About() {
   return (
     <div>
-      about
+      <Barberton/>
     </div>
   )
 }

@@ -18,7 +18,7 @@ import PlantscCategoria from './PlantscCategoria';
 function Cateforia() {
   return (
     <div className="container">
-      <div className="row my-5">
+      <div className="row margin-top">
         <div className="col-md-3">
             <div>
                 <h3 className="mb-4">Categories</h3>

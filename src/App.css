@@ -28,3 +28,11 @@ color: #3D3D3D !important;
 .icons{
   font-size: 23px;
 }
+.bacround{
+  background-color: #46A3581A;
+  width: 100%;
+  height: 100px;
+}
+.margin-top{
+  margin-top: 100px !important;
+}

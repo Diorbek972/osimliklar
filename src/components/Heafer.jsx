@@ -4,7 +4,7 @@ import imgbir from '../assets/fotos/01 1.png'
 function Heafer() {
     return (
         <div className="container">
-            <div className="row align-items-center">
+            <div className="row align-items-center margin-top">
                 <div className="col-md-6">
                     <p className="my-4">Welcome to GreenShop</p>
                     <h1 className="my-4">Let’s Make a

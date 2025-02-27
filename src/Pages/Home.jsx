@@ -1,3 +1,8 @@
+//css
+import '../App.css'
+// bootsreap
+import 'bootstrap/dist/css/bootstrap.min.css';
+
 import Carusel from "../components/carusel"
 import Gullar from '../components/Gullar';
 import BlogPost from '../components/BlogPost';
