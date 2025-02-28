@@ -14,8 +14,8 @@ import { TiSocialYoutube } from "react-icons/ti";
 import foto from '../assets/fotos/ohirgirasm.png'
 function FooterQismi() {
   return (
-    <div className="container">
-      <div className="row margin-top align-items-center">
+    <div className="container ">
+      <div className="row margin-top align-items-center ">
         <div className="col-md-2">
           <div className=" border-end">
             <img src={imgbir} alt="" />
@@ -40,8 +40,8 @@ function FooterQismi() {
         <div className="col-md-5">
           <h2>Would you like to join newsletters?</h2>
           <div className="input-group mb-3">
-            <input type="email" className='form-control px-3 py-2 my-3' placeholder='Eser email' />
-            <button className='btn btn-success'>join</button>
+            <input type="email" className='form-control ' placeholder='User email' />
+            <button className='btn btn-success py-1 rounded-end '>join</button>
             <p className='text-black-50 my-3'>We usually post offers and challenges in newsletter. We’re your online houseplant destination. We offer a wide range of houseplants and accessories shipped directly from our (green)house to yours! </p>
           </div>
 
@@ -96,11 +96,11 @@ function FooterQismi() {
         </div>
         <div className='col-md-3'>
           <h3>Social Media</h3>
-          <FaFacebookF className='icons text-success mx-2 border border-success p-1 rounded-3 my-3'/>
-          <FaInstagram className='icons text-success mx-2 border border-success p-1 rounded-3 my-3'/>
-          <AiOutlineTwitter className='icons text-success mx-2 border border-success p-1 rounded-3 my-3'/>
-          <FaFingerprint className='icons text-success mx-2 border border-success p-1 rounded-3 my-3'/>
-          <TiSocialYoutube className='icons text-success mx-2 border border-success p-1 rounded-3 my-3'/>
+          <FaFacebookF className='icons text-success mx-2 border border-success p-1 rounded-3 my-3' />
+          <FaInstagram className='icons text-success mx-2 border border-success p-1 rounded-3 my-3' />
+          <AiOutlineTwitter className='icons text-success mx-2 border border-success p-1 rounded-3 my-3' />
+          <FaFingerprint className='icons text-success mx-2 border border-success p-1 rounded-3 my-3' />
+          <TiSocialYoutube className='icons text-success mx-2 border border-success p-1 rounded-3 my-3' />
           <h3>We accept</h3>
           <img src={foto} className='img-fluid mt-4' alt="" />
         </div>

@@ -12,6 +12,8 @@ import { Autoplay, Pagination, Navigation } from 'swiper/modules';
 
 // img
 import imgbir from '../assets/fotos/01 1.png'
+import imgiki from '../assets/fotos/chiroylibir.jpg'
+import imguch from '../assets/fotos/chiroyliiki.png'
 
 
 function Carusel() {
@@ -55,7 +57,7 @@ function Carusel() {
                             <button className="btn btn-success d-block my-4">shop now</button>
                         </div>
                         <div className="col-md-6">
-                            <img src={imgbir} className='w-75' alt="das" />
+                            <img src={imgiki} className='w-75' alt="das" />
                         </div>
                     </div>
                 </SwiperSlide>
@@ -69,7 +71,7 @@ function Carusel() {
                             <button className="btn btn-success d-block my-4">shop now</button>
                         </div>
                         <div className="col-md-6">
-                            <img src={imgbir} className='w-75' alt="das" />
+                            <img src={imguch} className='w-75' alt="das" />
                         </div>
                     </div>
                 </SwiperSlide>

@@ -18,10 +18,10 @@ function NavbarMain() {
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="mx-auto">
-              <NavLink to={"/home"} className="nav-link">Home</NavLink>
-              <NavLink to={"/about"} className="nav-link">about</NavLink>
-              <NavLink className="nav-link">Plant Care</NavLink>
-              <NavLink className="nav-link">Blogs</NavLink>
+              <NavLink to={"/home"} className="nav-link  border-bottom border-success border-3 me-3">Home</NavLink>
+              <NavLink to={"/about"} className="nav-link  border-bottom border-success border-3">about</NavLink>
+              <NavLink to={"/about"} className="nav-link">Plant Care</NavLink>
+              <NavLink to={"/about"} className="nav-link">Blogs</NavLink>
             </Nav>
             <CiSearch className='text-black mx-4 with' />
             <FaBasketShopping className='text-black mx-4 with' />
