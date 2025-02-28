@@ -16,7 +16,7 @@ import imgiki from '../assets/fotos/chiroylibir.jpg'
 import imguch from '../assets/fotos/chiroyliiki.png'
 
 
-function Carusel() {
+function CaruselMain() {
     return (
         <div>
             <Swiper
@@ -81,4 +81,4 @@ function Carusel() {
     )
 }
 
-export default Carusel
+export default CaruselMain
