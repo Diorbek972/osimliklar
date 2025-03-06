@@ -12,16 +12,16 @@ function BlogPost() {
             <p className="text-center text-black-50 bg-white">We are an online plant shop offering a wide range of cheap and trendy plants. </p>
             <div className="row">
                 <div className="col-md-3">
-             <PostBlog images={imgbir} decriptions={"Cactus & Succulent "} posts={"Cacti are succulents are easy care plants for any home or patio. "}/>
+                    <PostBlog images={imgbir} decriptions={"Cactus & Succulent "} posts={"Cacti are succulents are easy care plants for any home or patio. "} />
                 </div>
                 <div className="col-md-3">
-                      <PostBlog images={imgiki} decriptions={"Cactus & Succulent "} posts={"Cacti are succulents are easy care plants for any home or patio. "}/>
+                    <PostBlog images={imgiki} decriptions={"Cactus & Succulent "} posts={"Cacti are succulents are easy care plants for any home or patio. "} />
                 </div>
                 <div className="col-md-3">
-                      <PostBlog images={imguch} decriptions={"Cactus & Succulent "} posts={"Cacti are succulents are easy care plants for any home or patio. "}/>
+                    <PostBlog images={imguch} decriptions={"Cactus & Succulent "} posts={"Cacti are succulents are easy care plants for any home or patio. "} />
                 </div>
                 <div className="col-md-3">
-                      <PostBlog images={imgtort} decriptions={"Cactus & Succulent "} posts={"Cacti are succulents are easy care plants for any home or patio. "}/>
+                    <PostBlog images={imgtort} decriptions={"Cactus & Succulent "} posts={"Cacti are succulents are easy care plants for any home or patio. "} />
                 </div>
             </div>
         </div>

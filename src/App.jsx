@@ -12,8 +12,8 @@ function App() {
 
   return (
     <>
- <MainLayout/>
- <FooterQismi/>
+      <MainLayout />
+      <FooterQismi />
 
     </>
   )

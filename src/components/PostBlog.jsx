@@ -1,7 +1,7 @@
 // icon
 import { FaArrowRight } from "react-icons/fa";
 
-function PostBlog({images, decriptions, posts, }) {
+function PostBlog({ images, decriptions, posts, }) {
   return (
     <div className="bg-black-50 ">
       <img src={images} className="img-fluid" alt="" />
